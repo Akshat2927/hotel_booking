@@ -9,14 +9,15 @@
 
 1. ** Clone the repository **
    git clone https://github.com/Akshat2927/hotel_booking.git
+   
    cd hotel-booking-system
 
 
-2. ** Create PostgreSQL Database **
+3. ** Create PostgreSQL Database **
    Open pgAdmin-> server-> database-> Right click on database-> Click Create 
    -> Database-> Enter Database name-> Leave Owner as default-> Click Save
 
-3. ** Configure application.properties **4
+4. ** Configure application.properties **4
    spring.datasource.url=jdbc:postgresql://localhost:5432/your_database_name
    spring.datasource.username=your_postgres_username
    spring.datasource.password=your_postgres_password
@@ -27,7 +28,7 @@
    spring.jpa.show-sql=true
    spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
-4. ** Run the Spring Boot Application **
+5. ** Run the Spring Boot Application **
    Server will start at: http://localhost:8080
 
 ## API Endpoints ##
