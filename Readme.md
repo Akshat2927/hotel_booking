@@ -8,7 +8,7 @@
 ## Setup Instruction ##
 
 1. ** Clone the repository **
-   git clone 
+   git clone https://github.com/Akshat2927/hotel_booking.git
    cd hotel-booking-system
 
 
