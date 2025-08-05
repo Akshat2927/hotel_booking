@@ -101,6 +101,7 @@
    "message": "Hotel Booked Successfully",
    "hotelId": "1",
    "hotelName": "The Taj Palace",
+   "city":"Delhi"
    "customerName": "XYZ",
    "checkInDate": "2025-08-10",
    "checkOutDate": "2025-08-15"
