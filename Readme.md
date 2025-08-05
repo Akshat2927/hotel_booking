@@ -14,7 +14,7 @@
    
    git clone https://github.com/Akshat2927/hotel_booking.git
    
-   cd hotel-booking-system
+   cd hotel_booking
 
 
 2. ** Create PostgreSQL Database **
